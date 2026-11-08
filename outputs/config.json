@@ -1,0 +1,13 @@
+{
+  "img_size": 48,
+  "color_mode": "grayscale",
+  "classes": [
+    "angry",
+    "disgust",
+    "fear",
+    "happy",
+    "neutral",
+    "sad",
+    "surprise"
+  ]
+}
